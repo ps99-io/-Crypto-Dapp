@@ -29,6 +29,8 @@
 - Investor can donate to the project with our Cb token
 - All the investor who help to complete the project goal amount for raising will receive Cb token as reward 
 
+## 📜 Basic Workflow Diagram
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/Fund Swap.png">
 
 ## 💻 Samples:
 <h3 align="center"> Live Sample Images of Project </h3>
