@@ -4,7 +4,6 @@
 <h1 align="center" id="CB-Swap"> CB Swap</h1>
 
 <h2 align="center"> A Blockchain based DeFinancial application for Fund Raising. </h2>
-<h3 align="center"> Build on Polygon Network</h3>
 
 <!-- - [PPT]() -->
 
@@ -88,7 +87,6 @@ $ git clone https://github.com/Leoravoe/-Crypto-Dapp.git
 
 ##### 🌟 BlockChain
 - Solidity
-- Polygon
 - Nodejs
 - Truffle
 - Ganache
