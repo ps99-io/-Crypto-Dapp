@@ -56,12 +56,12 @@ You can download Ganache from <a href="https://trufflesuite.com/ganache/">here</
 
 <br>
 
-### 2️⃣ Clone the repo :busts_in_silhouette
+### 2️⃣ Clone the repo
 
 ```sh
 $ git clone https://github.com/Leoravoe/-Crypto-Dapp.git
 ```
-
+### 3️⃣ Run the project :arrow_up:
 - do ```npm install -g truffle``` in your terminal
 - do ```npm install``` in root directory
 - do ```npm install``` in ```client```
