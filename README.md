@@ -31,7 +31,18 @@
 
 
 ## 💻 Samples:
+<h3 align="center"> Live Sample Images of Project </h3>
 <img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/ExchangeDashboard.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/CreateProject.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/BuyingCbToken.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/DonatingProject.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/RewardReceived.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/DonationReceived.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/Approving.png">
+<h3 align="center"> Live Test Images of Smart Contract </h3>
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/1st tested pic.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/2nd tested pic.png">
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/3rd tested pic.png">
 
 
 ## 👣 Steps to run the project 
