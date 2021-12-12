@@ -46,7 +46,13 @@
 
 
 ## 👣 Steps to run the project 
+### 1️⃣ Install The MetaMask web extension
+
+You can download the metamak web extension from <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">here</a>
+
+<br>
 - clone the repo in your local machine
+- do ```npm install -g truffle``` in your terminal
 - do ```npm install``` in root directory
 - do ```npm install``` in ```client```
 
