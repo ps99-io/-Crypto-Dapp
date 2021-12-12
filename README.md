@@ -46,15 +46,32 @@
 
 
 ## 👣 Steps to run the project 
-### 1️⃣ Install The MetaMask web extension
+### 1️⃣ Install The MetaMask web extension, Node.js and Ganache
 
 You can download the metamak web extension from <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">here</a>
 
+You can download the NodeJs from <a href="https://nodejs.org/en/">here</a>
+
+You can download Ganache from <a href="https://trufflesuite.com/ganache/">here</a>
+
 <br>
-- clone the repo in your local machine
+
+### 2️⃣ Clone the repo :busts_in_silhouette
+
+```sh
+$ git clone https://github.com/Leoravoe/-Crypto-Dapp.git
+```
+
 - do ```npm install -g truffle``` in your terminal
 - do ```npm install``` in root directory
 - do ```npm install``` in ```client```
+- run ganache on your local machine to start a local Ethereum Blockchain
+- do ```truffle migrate``` in root directory
+- do ```cd client``` in root directory
+- do ```npm start``` in client directory
+- Now your good to go !!
+
+
 
 
 ## Tech Stacks & dependencies
