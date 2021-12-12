@@ -77,7 +77,17 @@ $ git clone https://github.com/Leoravoe/-Crypto-Dapp.git
 ## Tech Stacks & dependencies
 
 ##### 🌟 Frontend
-- 
+- ReactJs
+- Tailwind CSS
+- MetaMask wallet
+- web3.js
+
+##### 🌟 BlockChain
+- Solidity
+- Nodejs
+- Truffle
+- Ganache
+- Ethereum Blockchain
 
 ## made with 💕 by 👨‍💻: 
 - [Preetam Sarkar](https://github.com/Leoravoe)
