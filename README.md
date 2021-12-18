@@ -33,6 +33,9 @@
 ## 📜 Basic Workflow Diagram
 <img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/Fund Swap.png">
 
+## 🏭 Architecture Diagram
+<img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/Untitled%20Workspace.png">
+
 ## 💻 Samples:
 <h3 align="center"> Live Sample Images of Project </h3>
 <img src="https://github.com/Leoravoe/-Crypto-Dapp/blob/master/images/ExchangeDashboard.png">
