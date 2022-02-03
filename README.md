@@ -1,4 +1,4 @@
-<!-- <h1 align="center" id="BUIDLIT-Hackathon"> :trophy: BUIDLIT | Polygon India Hackathon</h1> -->
+<h1 align="center" id="BUIDLIT-Hackathon"> :trophy: BUIDLIT | Polygon India Hackathon :trophy:</h1>
 
 <!-- # CB Swap -->
 <h1 align="center" id="CB-Swap"> CB Swap</h1>
